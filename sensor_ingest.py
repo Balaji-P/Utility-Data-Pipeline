@@ -1,3 +1,6 @@
+# create a Python script to ingest the sensor data and publish it to a message broker.
+# use the paho-mqtt library to interact with the message broker.
+
 import paho.mqtt.client as mqtt
 import json
 
