@@ -1,4 +1,4 @@
-#create a Python script to read the input data and ingest it into Postgres.
+# create a Python script to read the input data and ingest it into Postgres.
 # use the psycopg2 library to interact with Postgres.
 
 import csv
