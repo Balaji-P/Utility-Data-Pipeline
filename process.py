@@ -1,3 +1,6 @@
+# create a Python script to process the ingested data.
+# use the pandas library to manipulate the data and the psycopg2 library to interact with Postgres.
+
 import pandas as pd
 import psycopg2
 
