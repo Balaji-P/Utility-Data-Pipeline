@@ -1,3 +1,6 @@
+# create a Python script to interact with the Postgres database and perform spatial queries.
+# use the psycopg2 library to interact with Postgres.
+
 import psycopg2
 
 # Connect to the Postgres database
