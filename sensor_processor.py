@@ -1,3 +1,6 @@
+# create a Python script to subscribe to the message broker, process the sensor data, and publish the processed data to a database.
+# use the paho-mqtt library to interact with the message broker and the psycopg2 library to interact with the Postgres database.
+
 import paho.mqtt.client as mqtt
 import psycopg2
 import json
